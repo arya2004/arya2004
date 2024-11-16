@@ -130,8 +130,6 @@
                 width="70" height="70" /> </a>
           </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arya2004/arya2004/output-3d-contrib/night.svg" />
@@ -143,3 +141,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arya2004&&size_weight=0.05&count_weight=0.95&langs_count=20&show_icons=true&locale=en&layout=compact" alt="arya2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arya2004&show_icons=true&locale=en" alt="arya2004" /></p>
+
+
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
