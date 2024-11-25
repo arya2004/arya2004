@@ -7,17 +7,9 @@
 
 
 
-
-- 🔭 I’m currently building **[Xphyrus](https://github.com/arya2004/xphyrus)**, a Cloud Native Online Assessment Platform.
-
-- 🌱 I’m currently learning **Golang**, **PyTorch**, and **Kubernetes**.
-
-- 💬 Ask me about **ASP.NET Core**, **Microservices**, and **Cloud Deployments**.
-
-- 📫 How to reach me: [arya.pathak@outlook.in](mailto:arya.pathak@outlook.in)
-
-- ⚡ Fun fact: Cats can make over 100 distinct vocal sounds—if only our logs were that expressive! 🐱📜!
-
+- email address: [arya.pathak@outlook.in](mailto:arya.pathak@outlook.in)
+-  blog: [arya2004.hashnode.dev](https://arya2004.hashnode.dev/)
+- 𝕏:  [x.com/_arya2004](https://x.com/_arya2004)
 
 
 
