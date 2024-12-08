@@ -33,10 +33,8 @@
 	</picture>
 </p>
 
-<p align="centre"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arya2004&&size_weight=0.05&count_weight=0.95&langs_count=20&show_icons=true&locale=en&layout=compact" alt="arya2004" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arya2004&show_icons=true&locale=en" alt="arya2004" /></p>
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya2004" alt="arya2004" /></a> </p>
