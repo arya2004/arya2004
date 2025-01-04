@@ -3,8 +3,6 @@
  <img src="https://komarev.com/ghpvc/?username=arya2004&label=Profile%20views&color=0e75b6&style=flat" alt="arya2004" /> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arya2004&show_icons=true&locale=en" alt="arya2004" /></p>
-
 
 
 
